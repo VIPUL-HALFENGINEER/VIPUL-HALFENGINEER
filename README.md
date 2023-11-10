@@ -43,7 +43,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VIPUL-HALFENGINEER&" alt="nerdycloud" /></p>
 HEY GO CHECK THIS FOR RESUME
 still under construction 🚧 
-https://VIPUL-HALFENGINEER.github.io/
+https://github.com/VIPUL-HALFENGINEER
 
 #<H2>COLLABORATE  https://bio.link/vipulsingh </H2>
 
