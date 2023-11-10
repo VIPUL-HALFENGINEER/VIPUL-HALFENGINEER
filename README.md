@@ -1,39 +1,34 @@
-- 👋 Hi, I’m @VIPUL-HALFENGINEER
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 
-<h1 align="center">Hi 👋, I'm KANISHTHIKA</h1>
+<h1 align="center">Hi 👋, I’m @VIPUL-HALFENGINEER</h1>
 <h2>Thanks for stopping by. Here's a little bit about myself..</h2>
-<h3 align="center">AN ENTHUSIASTIC CLOUD AND DEVOPS LEARNER</h3>
+<h3 align="center">AN ENTHUSIASTIC CLOUD AND DEVOPS PROFESSIONAL </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nerdycloud&label=Profile%20views&color=0e75b6&style=flat" alt="nerdycloud" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nerdycloud" alt="nerdycloud" /></a> </p>
 
-- 🔭 I’m currently working on **java & Kubernetes**
+- 🔭 I’m currently working on **DEVOPS AND CLOUD**
 
-- 🌱 I’m currently learning **AWS AZURE DOCKER KUBERNETES**
+- 🌱 I’m currently learning **AWS DEVOPS WITH KUBERNETES **
 
-- 👯 I’m looking to collaborate on **Devops and cloud projects**
+- 👯 I’m looking to collaborate on **Devops and Cloud projects**
 
-- 👨‍💻 All of my projects are available at [https://bio.link/kanishthika](https://bio.link/kanishthika)
+- 👨‍💻 All of my projects are available at [https://bio.link/kanishthika](https://bio.link/vipulsingh)
 ### Blogs posts
-- 📝 I regularly write articles on [https://hashnode.com/@kanishthika](https://hashnode.com/@kanishthika)
- 👯 collaborate on https://www.linkedin.com/in/kanishthika-singh-77530323a/...
-- 📫 How to reach me **Kanishthika2001@gmail.com**
- ⚡ Fun fact: I wanted to be a artist or designer but turned into a techie cloud nerdy artist ...
+- 📝 I regularly write articles on [https://hashnode.com/@kanishthika](https://hashnode.com/@vipulsingh)
+ 👯 collaborate on https://www.linkedin.com/in/vipul-singh-b00b63205/ ...
+- 📫 How to reach me **vipulsinghcloud@gmail.com**
+ ⚡ Fun fact: I am a serious person...
 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kanishthikas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kanishthikas" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kanishthika-singh-77530323a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kanishthika-singh-77530323a/" height="30" width="40" /></a>
-<a href="https://hashnode.com/nerdycloud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="nerdycloud" height="30" width="40" /></a>
-<a href="/https://hashnode.com/@kanishthika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://hashnode.com/@kanishthika" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vipul-singh-b00b63205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vipul-singh-b00b63205/" height="30" width="40" /></a>
+<a href="https://hashnode.com/vipulsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="vipul" height="30" width="40" /></a>
+<a href="/https://hashnode.com/@vipulsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://hashnode.com/@" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -48,9 +43,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nerdycloud&" alt="nerdycloud" /></p>
 HEY GO CHECK THIS FOR RESUME
 still under construction 🚧 
-https://nerdycloud.github.io/
+https://VIPUL-HALFENGINEER.github.io/
 
-#<H2>COLLABORATE  https://bio.link/kanishthika </H2>
+#<H2>COLLABORATE  https://bio.link/vipulsingh </H2>
 
 
 
