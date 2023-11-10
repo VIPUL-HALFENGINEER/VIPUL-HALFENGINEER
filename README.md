@@ -14,9 +14,9 @@
 
 - 👯 I’m looking to collaborate on **Devops and Cloud projects**
 
-- 👨‍💻 All of my projects are available at [https://bio.link/kanishthika](https://bio.link/vipulsingh)
+- 👨‍💻 All of my projects are available at [https://bio.link/vipulsingh](https://bio.link/vipulsingh)
 ### Blogs posts
-- 📝 I regularly write articles on [https://hashnode.com/@kanishthika](https://hashnode.com/@vipulsingh)
+- 📝 I regularly write articles on [https://hashnode.com/@vipulsingh](https://hashnode.com/@vipulsingh)
  👯 collaborate on https://www.linkedin.com/in/vipul-singh-b00b63205/ ...
 - 📫 How to reach me **vipulsinghcloud@gmail.com**
  ⚡ Fun fact: I am a serious person...
