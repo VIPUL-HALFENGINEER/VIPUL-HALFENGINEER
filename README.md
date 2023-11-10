@@ -36,11 +36,11 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nerdycloud&show_icons=true&locale=en&layout=compact" alt="nerdycloud" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VIPUL-HALFENGINEER&show_icons=true&locale=en&layout=compact" alt="nerdycloud" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nerdycloud&show_icons=true&locale=en" alt="nerdycloud" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VIPUL-HALFENGINEER&show_icons=true&locale=en" alt="nerdycloud" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nerdycloud&" alt="nerdycloud" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VIPUL-HALFENGINEER&" alt="nerdycloud" /></p>
 HEY GO CHECK THIS FOR RESUME
 still under construction 🚧 
 https://VIPUL-HALFENGINEER.github.io/
