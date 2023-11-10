@@ -4,9 +4,9 @@
 <h2>Thanks for stopping by. Here's a little bit about myself..</h2>
 <h3 align="center">AN ENTHUSIASTIC CLOUD AND DEVOPS PROFESSIONAL </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nerdycloud&label=Profile%20views&color=0e75b6&style=flat" alt="nerdycloud" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=VIPUL-HALFENGINEER&label=Profile%20views&color=0e75b6&style=flat" alt="nerdycloud" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nerdycloud" alt="nerdycloud" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VIPUL-HALFENGINEER" alt="nerdycloud" /></a> </p>
 
 - 🔭 I’m currently working on **DEVOPS AND CLOUD**
 
